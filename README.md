@@ -1,8 +1,24 @@
-# React + Vite
+# 25 + 5 Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Pomodoro-style timer built with React and Vite. This project allows users to manage focused work sessions and break intervals using adjustable timers, audio alerts, and clean UI interactions.
 
-Currently, two official plugins are available:
+## Features
+- Adjustable session and break lengths
+- Start, pause, and reset controls
+- Audio alert when session or break ends
+- Responsive layout for desktop and mobile
+- Built with React + Vite for fast performance
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+
+## Live Demo
+[View the deployed project](<YOUR-VERCEL-LINK-HERE>)
+
+## How to Run Locally
+```bash
+npm install
+npm run dev
