@@ -16,7 +16,7 @@ A responsive Pomodoro-style timer built with React and Vite. This project allows
 - CSS
 
 ## Live Demo
-[View the deployed project]([<YOUR-VERCEL-LINK-HERE>](https://25-5-clock-sage-delta.vercel.app/))
+[View the deployed project](https://25-5-clock-sage-delta.vercel.app/)
 
 ## How to Run Locally
 ```bash
